@@ -11,9 +11,7 @@ GetYourActivity is an activities management system developed as a final training
 - [Setup & Installation](#setup--installation)
   - [Backend (Laravel)](#backend-laravel)
   - [Frontend (React)](#frontend-react)
-- [Usage](#usage)
-- [Author](#author)
-- [License](#license)
+- [Usage](#usage) 
 
 ---
 
